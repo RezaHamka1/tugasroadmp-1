@@ -1,0 +1,20 @@
+{
+  "name": "roadmap-backend",
+  "version": "1.0.0",
+  "description": "Aplikasi kasir sederhana berbasis CLI menggunakan Node.js. Pengguna dapat memilih menu makanan/minuman, menentukan jumlah pembelian, dan mendapatkan total harga.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RezaHamka1/tugasroadmp-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RezaHamka1/tugasroadmp-1/issues"
+  },
+  "homepage": "https://github.com/RezaHamka1/tugasroadmp-1#readme"
+}
