@@ -1,10 +1,10 @@
 {
   "name": "roadmap-backend",
   "version": "1.0.0",
-  "description": "Aplikasi kasir sederhana berbasis CLI menggunakan Node.js. Pengguna dapat memilih menu makanan/minuman, menentukan jumlah pembelian, dan mendapatkan total harga.",
+  "description": "Output Cli apps Kasir.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
